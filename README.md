@@ -1,5 +1,5 @@
 # Forbidden-Tracker
-A tracker and duel rank calculator for Forbidden Memories also usable on stream overlays made in Unity!
+A tracker and duel rank calculator made in Unity for Forbidden Memories also usable on stream overlays!
 
 Download: [Forbidden Tracker.zip](https://github.com/drewlith/Forbidden-Tracker/files/8545717/Forbidden.Tracker.zip)
 
